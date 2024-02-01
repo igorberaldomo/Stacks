@@ -1,0 +1,5 @@
+Introdução ao versionamento e controle de código
+introdução ao Git
+Introdução ao GitHub
+introdução ao uso do editor de código VSCode
+Criação do Perfil do aluno no Github Classrom
