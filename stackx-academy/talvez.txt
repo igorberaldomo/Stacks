@@ -1,0 +1,1 @@
+https://github.com/stackxeducacao/stackx-basico-entrypoint.git
